@@ -1,0 +1,2 @@
+In this repo we are going to understand about numpy.
+Basically numpy come in two flavor -  1. matirces(2D-array), 2.vectors(1D-array) 
