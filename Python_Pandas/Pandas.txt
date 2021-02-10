@@ -1,0 +1,20 @@
+Welcome to pandas here we understand all pandas concept.
+
+Pandas is a open source library or we can say it is a upgrade version of numpy.
+
+pandas work area is -
+1. fast Analysis
+2. data cleaning
+3. data preparation
+4. pandas have also built in visualization features
+5. it can work with data from wide variety of sources.
+
+Python topics -
+
+1. Series
+2. Dataframes
+3. Missing Data
+4. GroupBy
+5. Mergin ,joining , concatenating
+6. Operation
+7 Data inpuut and output
